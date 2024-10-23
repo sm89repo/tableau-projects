@@ -1,0 +1,14 @@
+AIRBNB
+
+Overview - This dashboard aims at providing Bookings of hotel across various locations in United States. 
+           Used for analyzing various types of rooms.
+
+Features - This model provides total no.of.hotels booked in various places and its ratings with reviews, Average prices in neighbourhood
+           average cost of rooms in a state and types of rooms.
+
+Visualization - Bar charts merged with line charts are given for total bookings in a neighbourhood with room type,
+                Doughnut charts are used for total share of bookings achieved in an area,
+                Tree Maps are used Average Price by neighbourhood,
+                Maps charts are used for Average Price in neighbourhood and in detailed manner.
+
+Data Source - Data is downloaded from from google and is updated with latest values continously.
