@@ -10,7 +10,7 @@
               Some of the Key data fields are Showid, Country, Description, Date and Genre.
 
 **Visualizations** - The Visualization is provided primarily in charts and texts. While Ratings and genres are given in bar charts as the number of values in place are more than one,
-                 Comaparison of two or three values are done with pie and circle charts with area charts also being used for visualizing an increment in shows and movies for a 
+                 Comparison of two or three values are done with pie and circle charts with area charts also being used for visualizing an increment in shows and movies for a 
                  particular amount of time. Geographic based values are represented in maps to identify similar values.
 
                  *Also necessary filters are added to display the visualization according to the option selected 
